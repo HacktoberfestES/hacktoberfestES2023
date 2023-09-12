@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Poliastro",
+        "description": "Poliastro es una biblioteca Python para Astrodinámica interactiva. Es rápida, fácil de usar, maneja unidades físicas, y tiene numerosas visualizaciones orbitales.",
+        "url": "https://github.com/poliastro/poliastro",
+        "img": "assets/img/proyectos/poliastro.png",
+        "technologies": "Python, Jupyter, Numba, MyST (Markdown)",
+        "community": "Python España"
+    },
+    {
+        "name": "Python Docs ES",
+        "description": "Grupo de trabajo para la traducción de la documentación oficial de Python al Español. El equipo está formado por personas de distintos paises hispanohablantes. ¡Únete y contribuye oficialmente a Python! 🐍",
+        "url": "https://python-docs-es.readthedocs.io/es/3.9/CONTRIBUTING.html",
+        "img": "assets/img/proyectos/python-docs-es.png",
+        "technologies": "Python, Bash, Archivos PO",
+        "community": "Python Docs ES"
+    },
+    {
+        "name": "The Qt Project",
+        "description": "Qt, es un framework multiplataforma para desarrollar programas que utilicen interfaces gráficas, como también distintas herramientas de línea de comando.",
+        "url": "https://qt-project.org",
+        "img": "assets/img/proyectos/qt-logo.png",
+        "technologies": "C++, QML, Python",
+        "community": "Qt Project"
+    },
+    {
+        "name": "Web Python Canarias",
+        "description": "Página web de la asociación Python Canarias. Incluye secciones de eventos, gestión de socios y socias, venta de entradas, información de la asociación, ofertas de empleo, etc.",
+        "url": "https://github.com/pythoncanarias/pycan-web",
+        "img": "assets/img/proyectos/web-python-canarias.png",
+        "technologies": "Python, Django, HTML, SCSS, JavaScript, Docker",
+        "community": "Python Canarias"
+    },
+    {
+        "name": "Blask",
+        "description": "Librería que nos va a ayudar a crear una web a partir de Markdown y HTML; en este caso, basado en Flask.",
+        "url": "https://github.com/zerasul/blask",
+        "img": "assets/img/proyectos/blask.png",
+        "technologies": "Python, Flask, HTML, CSS",
+        "community": "Python Almería, Python Canarias"
+    },
+    {
+        "name": "Genesis Code",
+        "description": "Extensión para Visual Studio Code, que ayuda a desarrollar Videojuegos para la consola de 16 Bits Sega Mega Drive.",
+        "url": "https://github.com/zerasul/genesis-code",
+        "img": "assets/img/proyectos/genesis-code.png",
+        "technologies": "TypeScript (Visual Studio Code)",
+        "community": "Grupo de Desarrolladores de Mega Drive"
+    },
+    {
+        "name": "Advice Me",
+        "description": "Advice Me es una extensión de navegador con la que podrás recibir mensajes motivacionales cada vez que lo necesites. Tu motivación a cualquier hora y a cualquier día, a golpe de click.",
+        "url": "https://github.com/fcoterroba/Advice_Me",
+        "img": "assets/img/proyectos/genesis-code.png",
+        "technologies": "JavaScript, HTML y CSS",
+        "community": "Python España"
+    },
+    {
+        "name": "BueStats",
+        "description": "BueStats es un scrapper que almacena y genera informes individuales y colectivos de estadística avanzada de todos los equipos en competiciones de la Federación Española de Baloncesto. Estos informes los utilizan lxs entrenadorxs para estudiar a sus rivales o su propio equipo.",
+        "url": "https://github.com/arbues6/BueStats",
+        "img": "assets/img/proyectos/buestats.png",
+        "technologies": "Python, Tkinter, BeautifulSoup, Selenium, Requests, Numpy, Pandas",
+        "community": "Python España"
+    },
+    {
+        "name": "Django-Template",
+        "description": "Cookiecutter para crear aplicaciones \"production ready\" en menos de 5 minutos utilizando Docker y Django. Rellena un simple formulario y podrás crear tu próxima startapp.",
+        "url": "https://github.com/adriancast/django-template",
+        "img": "assets/img/proyectos/django-template.png",
+        "technologies": "Docker, Django, Grafana, Let's Encrypt + Certbot y muchas más con tu ayuda ;)",
+        "community": "Python Mallorca"
+    },
+    {
+        "name": "RSSPAPER",
+        "description": "Genera una página estática con las últimas noticias de tus feeds favoritos. Crea un HTML/PWA que puedes leer o instalar en tu tableta o móvil.",
+        "url": "https://github.com/tanrax/RSSPAPER",
+        "img": "assets/img/proyectos/rsspaper.png",
+        "technologies": "Clojure y un motor de plantillas HTML clon de Django.",
+        "community": "Python España"
+    },
+    {
+        "name": "Funny DNI Letter",
+        "description": "Funny DNI Letter es un proyecto básico en el que el usuario obtiene la letra de un DNI según el número del mismo. Además, te adjudica un personaje famoso!",
+        "url": "https://github.com/fcoterroba/Funny_DNI_letter",
+        "img": "assets/img/proyectos/calculadora_dni.png",
+        "technologies": "JavaScript, HTML y CSS",
+        "community": "Python España"
+    },
+    {
+        "name": "Damegender",
+        "description": "Es una herramienta de detección de género a partir del nombre. Te animo a que trates de utilizarla y si ves bugs o se te ocurren nuevas features, o no entiendes cómo se hace algo lo comentes trataré de explicar cómo hacerlo.",
+        "url": "https://github.com/davidam/damegender",
+        "img": "assets/img/proyectos/damegender.png",
+        "technologies": "Python, Bash"
+    },
+    {
+        "name": "QA-Empleo",
+        "description": "En el hacktoberfest pasado vi la oportunidad de poder desarrollar QA-Empleo, un software que permite poder determinar si una oferta de empleo es buena o no, del modo más objetivamente posible. Es decir, que ayude en la toma de decisiones de una manera fría y objetiva.",
+        "url": "https://github.com/RafaelAybar/qa-empleo",
+        "img": "assets/img/proyectos/qa-empleo.png",
+        "technologies": "Python"
+    },
+    {
+        "name": "GeoSearch",
+        "description": "It is a client-side application that allows anyone to provide a search experience of geolocated elements. It could be physical elements, websites focus on a specific area, etc.",
+        "url": "https://github.com/GeoVoluntarios/geovoluntarios-buscador-web-geolocalizadas",
+        "img": "assets/img/proyectos/geosearch.png",
+        "technologies": "HTML, CSS, ES6, ArcGIS API for JavaScript",
+        "community": "GeoVoluntarios"
+    },
+    {
+        "name": "Helpbuttons.org",
+        "description": "Custom Collaboration Platform. The goal is to allow everyone to make their own collaborative tool (like Glovo, BlaBlaCar, Airbnb or any other fields of collaboration). We made a prototype that we're rebuilding with new technologies after a learning process. We need special help with React, NextJS and API communication, and Leaflet integration.",
+        "url": "https://github.com/helpbuttons",
+        "img": "assets/img/proyectos/helpbuttons.png",
+        "technologies": "React, NextJS, NodeJS, PostGIS, LoopBack",
+        "community": "Helpbuttons"
+    },
+    {
+        "name": "Acadeller Recursos de Programación",
+        "description": "El objetivo principal de este repositorio, es recopilar la mayor cantidad posible de recursos de programación que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por lenguajes de programación, en cada lenguaje podrás encontrar recursos para dicho lenguaje, frameworks, librerías y mucho más.",
+        "url": "https://github.com/Acadeller/recursos-programacion",
+        "img": "assets/img/proyectos/recursos-programacion.png",
+        "technologies": "Markdown, C, CSS, Dart, Go, HTML, Java, JavaScript, Kotlin, PHP, Python, R, Ruby, Rust, Scala, SQL, Swift",
+        "community": "Acadeller"
+    },
+    {
+        "name": "Dog",
+        "description": "La existencia de un comando cat implica la existencia de un comando dog. Bajo esa premisa, decidí montar este paquete que te permite disponer de tu propio perrete en la terminal. Es un proyecto muy básico y que nace como una broma entre programadores, pero útil para introducirse en la programación y especialmente en las contribuciones de código abierto.",
+        "url": "https://github.com/JuanjoSalvador/dog",
+        "img": "assets/img/proyectos/dog.png",
+        "technologies": "C, Makefile"
+    },
+    {
+        "name": "PyPowChain",
+        "description": "Simple Proof Of Work blockchain written in Python, to be used as a tool to explain how the core concepts of the technology work.",
+        "url": "https://github.com/alrevuelta/pypowchain",
+        "img": "assets/img/proyectos/pypowchain.png",
+        "technologies": "Python, flask, requests, rsa, hashlib"
+    }
+]
+
+

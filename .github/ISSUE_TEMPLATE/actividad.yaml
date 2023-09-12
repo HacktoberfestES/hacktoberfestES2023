@@ -1,0 +1,57 @@
+
+name: Propuesta de actividad
+description: Propón una actividad para HacktoberfestES
+title: "[ACTIVIDAD] <nombre de la actividad>"
+labels: [actividad]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¿Quieres proponer una charla, taller, mesa redonda o similar? Buscamos actividades relacionadas con contribuciones a software libre y código abierto.
+
+  - type: input
+    id: name
+    attributes:
+      label: Nombre
+    validations:
+      required: true
+  - type: input
+    id: datetime
+    attributes:
+      label: Fecha y hora
+      description: Si aún no lo sabes, pon fechas orientativas o déjalo en blanco.
+    validations:
+      required: false
+  - type: input
+    id: link
+    attributes:
+      label: Enlace
+      description: Si la actividad tiene una página propia, ponla aquí.
+    validations:
+      required: false
+  - type: textarea
+    id:  description-short
+    attributes:
+      label: Descripción corta
+      description: Máximo 280 caracteres
+    validations:
+      required: true
+  - type: textarea
+    id:  description-long
+    attributes:
+      label: Descripción larga
+      description: Descripción más extensa de en qué consistiría la actividad. Máximo 1000 caracteres.
+    validations:
+      required: false
+  - type: textarea
+    id:  comments
+    attributes:
+      label: Comentarios adicionales
+      description: ¿Algo más que deberíamos saber sobre esta actividad? ¿Tienes dudas? Escríbelas aquí.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por enviar tu propuesta de actividad!

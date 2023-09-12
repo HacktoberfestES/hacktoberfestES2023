@@ -1,0 +1,72 @@
+
+name: Propuesta de Proyecto
+description: Propón un proyecto para HacktoberfestES
+title: "[PROYECTO] <nombre del proyecto> - <tecnología principal>"
+labels: [proyecto]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¿Qué tipo de proyectos buscamos?
+        - Sencillos y pequeños, que no haga falta tener muchísimo contexto para poder contribuir.
+        - Vale cualquier lenguaje de programación.
+        - Esperamos que estés disponible para mentorizar las contribuciones a lo largo del mes de octubre.
+        
+        Por favor, rellena la siguiente información sobre tu proyecto.
+  - type: input
+    id: name
+    attributes:
+      label: Nombre
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: Enlace a Github
+    validations:
+      required: true
+  - type: textarea
+    id:  logo
+    attributes:
+      label: Logo
+      description: Si ya tienes un logo, adjúntalo en este campo. Si no, puedes crear uno más adelante.
+    validations:
+      required: false
+  - type: textarea
+    id:  techs
+    attributes:
+      label: Tecnologías empleadas
+      description: Lenguajes de programación, bibliotecas principales...
+    validations:
+      required: true
+  - type: textarea
+    id:  description
+    attributes:
+      label: Descripción corta
+      description: Máximo 280 caracteres
+    validations:
+      required: true
+  - type: checkboxes
+    id: setup
+    attributes:
+      label: Prepara tu proyecto para el HacktoberfestES
+      description: Será más fácil colaborar en tu proyecto si tiene la siguiente información. Por favor, marca lo que ya tengas listo.
+      options:
+        - label: El proyecto está marcado con la etiqueta `hacktoberfest`.
+          required: true
+        - label: El proyecto tiene un README indicando cómo configurarlo para desarrollar en él.
+          required: false
+        - label: El proyecto tiene creadas issues con información clara sobre las mejoras a implementar.
+          required: false
+  - type: textarea
+    id:  comments
+    attributes:
+      label: Comentarios adicionales
+      description: ¿Algo más que deberíamos saber sobre este proyecto? ¿Tienes dudas? Escríbelas aquí.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por enviar tu propuesta de proyecto!

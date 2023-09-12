@@ -1,0 +1,11 @@
+[
+    {
+        "name": "2a Festa de l'Open Source a Girona",
+        "datetime": "2022-10-23T09:00:00+02:00",
+        "datetimeHuman": "Domingo 23 de octubre  - 10:30 am",
+        "timezone": "UTC+2",
+        "image": "assets/img/agenda/geekscat.png",
+        "url": "https://hacktoberfest.geeks.cat/",
+        "description": "Geeks.cat organiza la segunda fiesta del OpenSource en Girona. Tendrá lugar en el Centre Cultural la Mercè. Habrá charlas, talleres, maratón de PRs + mentorías y ¡mucho código abierto!"
+    }
+]
