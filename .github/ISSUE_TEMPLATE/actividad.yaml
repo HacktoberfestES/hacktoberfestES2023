@@ -24,6 +24,13 @@ body:
     validations:
       required: false
   - type: input
+    id: location
+    attributes:
+      label: Localización
+      description: Si es presencial, pon el lugar (puede estar por confirmar). Si es remota, especifícalo.
+    validations:
+      required: false
+  - type: input
     id: link
     attributes:
       label: Enlace
