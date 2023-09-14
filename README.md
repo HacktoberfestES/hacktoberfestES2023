@@ -1,5 +1,5 @@
-# hacktoberfestES2022-web
-Web para la HacktoberfestES2022
+# hacktoberfestES2023-web
+Web para la HacktoberfestES2023
 
 Para verla en local:
 ```
