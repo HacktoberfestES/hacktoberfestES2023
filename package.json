@@ -1,0 +1,11 @@
+{
+  "name": "hacktoberfestes",
+  "version": "1.0.0",
+  "description": "An example blog site using Eleventy that covers fundamental functionality",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy",
+    "test": "jest"
+  }
+}
