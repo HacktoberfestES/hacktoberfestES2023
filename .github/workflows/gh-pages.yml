@@ -20,7 +20,8 @@ jobs:
 
       - name: Install dependencies & build
         run: |
-          npm install
+          npm install -g npm
+          npm install -g npx
           npm ci
           npm run build          
 
