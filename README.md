@@ -5,4 +5,3 @@ Para verla en local:
 ```
 npx @11ty/eleventy --serve
 ```
-Test
