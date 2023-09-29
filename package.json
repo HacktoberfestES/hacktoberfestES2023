@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An example blog site using Eleventy that covers fundamental functionality",
   "scripts": {
-    "build": "npx eleventy",
+    "build": "npm install @11ty/eleventy",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
     "test": "jest"
