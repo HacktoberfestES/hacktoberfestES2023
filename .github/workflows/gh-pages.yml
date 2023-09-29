@@ -20,8 +20,8 @@ jobs:
 
       - name: Install dependencies & build
         run: |
-          npm ci
-          npm run build          
+          npm@5 ci
+          npm@5 run build          
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
