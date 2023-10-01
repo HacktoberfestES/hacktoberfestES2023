@@ -1,1 +1,32 @@
-[]
+[{
+        "name": "Blask",
+        "description": "Librería que nos va a ayudar a crear una web a partir de Markdown y HTML; en este caso, basado en Flask.",
+        "url": "https://github.com/zerasul/blask",
+        "img": "assets/img/proyectos/blask.png",
+        "technologies": "Python, Flask, HTML, CSS",
+        "community": "Python Almería, Python Canarias"
+    },
+    {
+        "name": "Genesis Code",
+        "description": "Extensión para Visual Studio Code, que ayuda a desarrollar Videojuegos para la consola de 16 Bits Sega Mega Drive.",
+        "url": "https://github.com/zerasul/genesis-code",
+        "img": "assets/img/proyectos/genesis-code.png",
+        "technologies": "TypeScript (Visual Studio Code)",
+        "community": "Grupo de Desarrolladores de Mega Drive"
+    },
+    {
+        "name": "Durango Lib",
+        "description": "Librería de Desarrollo para ordenador retro, basado en el procesador 6502.",
+        "url": "https://github.com/durangoretro/DurangoLib",
+        "img": "assets/img/proyectos/Durango.png",
+        "technologies": "Assembler (6502), C, Makefile",
+        "community": "Durango Computer Team (https://durangoretro.com)"
+    },
+    {
+        "name": "Durango Computer web",
+        "description": "Página Web del proyecto Durango",
+        "url": "https://github.com/durangoretro/web",
+        "img": "assets/img/proyectos/Durango.png",
+        "technologies": "Markdown, Mkdocs",
+        "community": "Durango Computer Team (https://durangoretro.com)"
+    },]
