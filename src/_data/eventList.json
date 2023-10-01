@@ -7,5 +7,14 @@
     "image": "assets/img/agenda/python-coruna-logo.webp",
     "url": "https://linktr.ee/pythoncoruna",
     "description": "Desde la comunidad de <b>Python Coruña</b> llevaremos a cabo una hackathon para el desarrollo de distintas soluciones y retos orientados al software libre. El encuentro se llevará a cabo el dia <b>21 de octubre</b> en el espacio <b>maker@domus</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/Zj7DS1KQtHi9gg1Y7'>Domus</a>, A Coruña</b> <br> <b>Horario</b> \uD83D\uDC49 10:00 - 21:30"
+  },
+  {
+    "name": "Python Almería - Hacktoberfest Party",
+    "datetime": "2023-10-14T12:00:00+02:00",
+    "datetimeHuman": "Sábado 14 de Octubre  - 12:00 am",
+    "timezone": "UTC+2",
+    "image": "assets/img/logos/pyes.png",
+    "url": "https://lajaqueria.org",
+    "description": "Desde la asociación La jaquería y comunidad Python Almería, se celebrará una sesión acerca del Hacktoberfest para celebrar los 10 años de evento."
   }
 ]
