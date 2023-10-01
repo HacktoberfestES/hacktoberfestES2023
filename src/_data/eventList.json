@@ -1,11 +1,11 @@
 [
   {
-    "name": "Python Coruña - Open source hackaton en el Domus",
-    "datetime": "2023-10-14T10:00:00+02:00",
-    "datetimeHuman": "Sábado 23 de Octubre  - 10:00 am",
+    "name": "Python Coruña - Hackathon en la Domus",
+    "datetime": "2023-10-21T10:00:00+02:00",
+    "datetimeHuman": "Sábado 21 de Octubre  - 10:00 am",
     "timezone": "UTC+2",
     "image": "assets/img/agenda/python-coruna-logo.webp",
-    "url": "https://linktr.ee/pythoncoruna",
-    "description": "Desde la comunidad de <b>Python Coruña</b> llevaremos a cabo una hackathon para el desarrollo de distintas soluciones y retos orientados al software libre. El encuentro se llevará a cabo el dia <b>21 de octubre</b> en el espacio <b>maker@domus</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/Zj7DS1KQtHi9gg1Y7'>Domus</a>, A Coruña</b> <br> <b>Horario</b> \uD83D\uDC49 10:00 - 21:30"
+    "url": "https://www.meetup.com/python-a-coruna/events/296469576/",
+    "description": "Desde la comunidad de <b><a href='https://linktr.ee/pythoncoruna'><u>Python Coruña</u></a></b> llevaremos a cabo un hackathon para el desarrollo de distintas soluciones y retos orientados al software libre. El encuentro se llevará a cabo el dia <b>Sábado, 21 de octubre</b> en el espacio <b>maker@domus</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/Zj7DS1KQtHi9gg1Y7'><u>Domus</u></a>, A Coruña</b> <br><br> <b>Horario</b> \uD83D\uDC49 10:00 - 21:30"
   }
 ]
