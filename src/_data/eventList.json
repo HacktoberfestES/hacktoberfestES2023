@@ -16,5 +16,32 @@
     "image": "assets/img/agenda/python-coruna-logo.webp",
     "url": "https://www.meetup.com/python-a-coruna/events/296469576/",
     "description": "Desde la comunidad de <b><a href='https://linktr.ee/pythoncoruna'><u>Python Coruña</u></a></b> llevaremos a cabo un hackathon para el desarrollo de distintas soluciones y retos orientados al software libre. El encuentro se llevará a cabo el dia <b>Sábado, 21 de octubre</b> en el espacio <b>maker@domus</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/Zj7DS1KQtHi9gg1Y7'><u>Domus</u></a>, A Coruña</b> <br><br> <b>Horario</b> \uD83D\uDC49 10:00 - 21:30"
+  },
+  {
+    "name": "OSL - GIT introduction",
+    "datetime": "2023-10-04T16:00:00+02:00",
+    "datetimeHuman": "Sábado 04 de Octubre  - 16:00 pm",
+    "timezone": "UTC+2",
+    "image": "assets/img/agenda/osl-logo.png",
+    "url": "https://osl.ugr.es/2023/09/25/charlas-esenciales-para-el-hacktoberfest-2023/",
+    "description": "Desde la Oficina de Software Libre promovemos y fomentamos el uso de software libre. En esta ocasión os daremos las bases para utilizar GIT. El encuentro se llevará a cabo el dia <b>Miércoles, 04 de octubre</b> en la<b>Aula A1</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/YtRuS5SHgxRk5qtcA'><u>ETSIIT</u></a>, Granada</b> <br><br> <b>Horario</b> \uD83D\uDC49 16:00 - 18:00"
+  },
+  {
+    "name": "Python Granada - QT introduction for Python",
+    "datetime": "2023-10-04T18:00:00+02:00",
+    "datetimeHuman": "Sábado 04 de Octubre  - 18:00 pm",
+    "timezone": "UTC+2",
+    "image": "assets/img/agenda/python-granada-logo.png",
+    "url": "https://osl.ugr.es/2023/09/25/charlas-esenciales-para-el-hacktoberfest-2023/",
+    "description": "Desde la comunidad de <b><a href='https://linktr.ee/pythoncoruna'><u>Python Coruña</u></a></b> llevaremos a cabo una serie de charlas y talleres esenciales de software libre. El encuentro se llevará a cabo el dia <b>Miércoles, 04 de octubre</b> en la <b>Aula A1</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/YtRuS5SHgxRk5qtcA'><u>ETSIIT</u></a>, Granada</b> <br><br> <b>Horario</b> \uD83D\uDC49 18:00 - 19:15"
+  },
+{
+    "name": "GDSC - Makefile",
+    "datetime": "2023-10-04T19:30:00+02:00",
+    "datetimeHuman": "Sábado 04 de Octubre  - 19:30 pm",
+    "timezone": "UTC+2",
+    "image": "assets/img/agenda/dsc-logo.png",
+    "url": "https://osl.ugr.es/2023/09/25/charlas-esenciales-para-el-hacktoberfest-2023/",
+    "description": "Desde la comunidad de GDSC, te explicaremos Makefile, es una herramienta fundamental para simplificar la compilación y automatizar tareas en el desarrollo de software. El encuentro se llevará a cabo el dia <b>Miércoles, 04 de octubre</b> en la <b>Aula A1</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/YtRuS5SHgxRk5qtcA'><u>ETSIIT</u></a>, Granada</b> <br><br> <b>Horario</b> \uD83D\uDC49 18:00 - 19:15"
   }
 ]
