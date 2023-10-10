@@ -29,4 +29,12 @@
         "img": "assets/img/proyectos/Durango.png",
         "technologies": "Markdown, Mkdocs",
         "community": "Durango Computer Team (https://durangoretro.com)"
+    },
+    {
+        "name": "Python Docs ES",
+        "description": "Traducción de la documentación oficial de Python al Español",
+        "url": "https://github.com/python/python-docs-es",
+        "img": "assets/img/proyectos/python-docs-es.png",
+        "technologies": "Python, Sphinx",
+        "community": "Equipo de traducción al español (https://python-docs-es.readthedocs.io)"
     }]
