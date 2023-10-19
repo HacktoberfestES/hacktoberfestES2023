@@ -37,4 +37,12 @@
         "img": "assets/img/proyectos/python-docs-es.png",
         "technologies": "Python, Sphinx",
         "community": "Equipo de traducción al español (https://python-docs-es.readthedocs.io)"
+    },
+    {
+        "name": "Python API Consumer",
+        "description": "Framework para crear clientes basados en clases para APIs HTTP",
+        "url": "https://github.com/EnriqueSoria/python-api-consumer",
+        "img": null,
+        "technologies": "Python",
+        "community": null
     }]
