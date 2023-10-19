@@ -124,9 +124,11 @@
                 <!-- Proyectos -->
                 {% for project in projectList %}
                 <a class="proyectos-item" href="{{ project.url }}" target="blank">
+                    {% if project.img %}
                     <div class="frame">
                         <img class="img-fluid" src="{{ project.img }}" alt="{{ project.name }}" />
                     </div>
+                    {% endif %}
                     <div class="proyectos-caption">
                         <div class="proyectos-caption-heading" >{{ project.name }}</div>
                         <p class="proyectos-caption-description">{{ project.description }}</p>
