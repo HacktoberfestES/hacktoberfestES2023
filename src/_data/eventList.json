@@ -35,7 +35,7 @@
     "url": "https://osl.ugr.es/2023/09/25/charlas-esenciales-para-el-hacktoberfest-2023/",
     "description": "Desde la comunidad de <b><a href='https://linktr.ee/pythoncoruna'><u>Python Coruña</u></a></b> llevaremos a cabo una serie de charlas y talleres esenciales de software libre. El encuentro se llevará a cabo el dia <b>Miércoles, 04 de octubre</b> en la <b>Aula A1</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/YtRuS5SHgxRk5qtcA'><u>ETSIIT</u></a>, Granada</b> <br><br> <b>Horario</b> \uD83D\uDC49 18:00 - 19:15"
   },
-{
+  {
     "name": "GDSC - Makefile",
     "datetime": "2023-10-04T19:30:00+02:00",
     "datetimeHuman": "Miércoles 04 de Octubre  - 19:30 pm",
@@ -43,5 +43,14 @@
     "image": "assets/img/agenda/dsc-logo.png",
     "url": "https://osl.ugr.es/2023/09/25/charlas-esenciales-para-el-hacktoberfest-2023/",
     "description": "Desde la comunidad de GDSC, te explicaremos Makefile, es una herramienta fundamental para simplificar la compilación y automatizar tareas en el desarrollo de software. El encuentro se llevará a cabo el dia <b>Miércoles, 04 de octubre</b> en la <b>Aula A1</b> en la <b><a target='_blank' href='https://maps.app.goo.gl/YtRuS5SHgxRk5qtcA'><u>ETSIIT</u></a>, Granada</b> <br><br> <b>Horario</b> \uD83D\uDC49 18:00 - 19:15"
+  },
+  {
+    "name": "Open Source Girona 2023",
+    "datetime": "2023-10-21T09:30:00+02:00",
+    "datetimeHuman": "Sábado 21 de Octubre  - 9:30 am",
+    "timezone": "UTC+2",
+    "image": "assets/img/agenda/geekscat.png",
+    "url": "http://hacktoberfest.geeks.cat/",
+    "description": "Durant tot el dia s'aniran fent xerrades i tallers sobre qualsevol tipus de tecnologia relacionada amb l'ecosistema Open Source. Entre d'altres parlarem d'IA generativa, domòtica, flutter, món crypto divises, desenvolupament web, etc."
   }
 ]
