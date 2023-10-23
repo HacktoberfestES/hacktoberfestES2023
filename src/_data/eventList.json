@@ -52,5 +52,14 @@
     "image": "assets/img/agenda/geekscat.png",
     "url": "http://hacktoberfest.geeks.cat/",
     "description": "Durant tot el dia s'aniran fent xerrades i tallers sobre qualsevol tipus de tecnologia relacionada amb l'ecosistema Open Source. Entre d'altres parlarem d'IA generativa, domòtica, flutter, món crypto divises, desenvolupament web, etc."
+  },
+  {
+    "name": "PyData Madrid - Taller: Contribución al open source por Hacktoberfest",
+    "datetime": "2023-10-25T18:00:00+02:00",
+    "datetimeHuman": "Miércoles 25 de Octubre - 18:00",
+    "timezone": "UTC+2",
+    "image": "assets/img/agenda/pydatamadrid-2023.png",
+    "url": "https://www.meetup.com/pydata-madrid/events/296832658/",
+    "description": "Este año nos sumamos a las actividades de Hacktoberfest, un evento anual organizado por DigitalOcean para promover el código abierto, con un taller de contribución al open source. Nos enfocaremos en pandas, scikit-learn, y SciPy, pero todos los proyectos son bienvenidos. ¡No olvides traer tu portátil bien cargado!"
   }
 ]
